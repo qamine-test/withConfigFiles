@@ -1,0 +1,6 @@
+---
+:run_checks:
+- CheckSymbolDoS
+- CheckJSONEncoding
+:skip_checks:
+- CheckSSLVerify
